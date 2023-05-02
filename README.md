@@ -1,0 +1,7 @@
+Download Link: https://assignmentchef.com/product/solved-cmis102-lab4-average-of-numbers
+<br>
+Week 4Overview
+
+This hands-on lab allows you to follow and experiment with the critical steps of developing a program including the program description, analysis, test plan, design (using pseudocode), and implementation with C code. The example provided uses sequential and selection statements.Program DescriptionThis program will calculate the sum and average of 5 integers. The program will ask the user to 5 integers. If the average of the numbers is greater than 100, a message is printed stating the average is over 100. The design step will include both pseudocode.AnalysisI will use sequential, and selection programming statements. I will define six integer numbers: value1, value2, value3, value4, value5 and sum. I will define a float number: average. The value1, value2, value3, value4 and value5 variables will store the integers input by the user. The sum will store the sum of the 5 values. The average will store the average of the 5 values. The sum will be calculated by this formula: sum = value1 + value2 + value3 + value4 + value5 The average will be calculated using this formula: average = sum / 5 For example, if the first values entered were value 1=1, value 2=1, value 3=2,value 4=2 and value 5=3 respectively: sum = 1 + 1 + 2 + 2 + 3 = 9 average = 9/5 = 1.8
+
+The additional selection statement will be of this form:If average &gt; 100 then print “Average is over 100
